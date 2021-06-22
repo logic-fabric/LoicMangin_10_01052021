@@ -1,13 +1,13 @@
 <mxfile>
     <diagram id="AmlEpA3_1aYCrx1T0YUR" name="Page-1">
-        <mxGraphModel dx="1047" dy="718" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="972" dy="718" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Elève / Parent &lt;br&gt;d'élève&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=3;strokeColor=#C64754;fillColor=#f9a6ae;fontColor=#830C17;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="80" y="240" width="30" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="&lt;font size=&quot;1&quot; color=&quot;#830c17&quot;&gt;&lt;b style=&quot;font-size: 28px&quot;&gt;Package &lt;i&gt;&quot;Gérer son profil&quot;&lt;/i&gt; (ébauche)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#660000;" parent="1" vertex="1">
+                <mxCell id="9" value="&lt;font size=&quot;1&quot; color=&quot;#830c17&quot;&gt;&lt;span style=&quot;font-size: 28px&quot;&gt;&lt;b&gt;Package &lt;/b&gt;&lt;i style=&quot;font-weight: bold&quot;&gt;&quot;Gérer son profil&quot;&lt;/i&gt; (ébauche)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#660000;" parent="1" vertex="1">
                     <mxGeometry x="35" y="60" width="502" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="10" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#660000;strokeWidth=3;strokeColor=none;fillColor=#F9A6AE;gradientColor=#fee7ea;gradientDirection=north;arcSize=2;" parent="1" vertex="1">
